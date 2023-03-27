@@ -1,59 +1,47 @@
 CameraAndGeoLocation
 Versão: 1.0
 Status do Projeto: ✔️ Concluído 
-Tópicos
-🔹 Descrição do projeto
 
-🔹 Funcionalidades
+### Tópicos:
 
-🔹 Distribuição
+🔹 [Descrição do projeto] (#descricao-projeto)
 
-🔹 Pré-requisitos
+🔹 [Funcionalidades] (#funcionalidades)
 
-🔹 Como rodar a aplicação
+🔹 [Distribuição] (#destribuição)
 
-🔹 Testes realizados
+🔹 [Pré-requisitos] (#pré-requisitos)
 
-🔹 Banco de Dados
+🔹 [Linguagens, dependências e libs utilizadas] (#linguagens-dependencias-libs)
 
-🔹 Linguagens, dependências e libs utilizadas
-
-🔹 Novas Recursos
-
-🔹 Resolvendo problemas
-
-🔹 Recursos inseridos
-
-🔹 Desenvolvedores/Contribuintes
-
-🔹 Informações Extras
+🔹 [Desenvolvedores/Contribuintes] (#desenvolvedores
 
 ...
 
-### Descrição do projeto:
+### Descrição do projeto (descricao-projeto):
 Aplicativo para tirar foto e pegar sua localização atual utilizando o GPS.
 
-### Funcionalidades: ⚙️
+### Funcionalidades(funcionalidades): ⚙️
 ✔️ Tirar fotos.
 
 ✔️ Localização atual (longitude e latitude).
 
-### Distribuição
+### Distribuição(destribuição):
 https://github.com/AlanBrandi/CameraAndGeoLocation
 
-### Pré-requisitos⚠️:
+### Pré-requisitos(pré-requisitos)⚠️:
 Versão do Android; SDK; Aparelho utilizado para testes.
 
 -Android 7.0;
 -Emulador ou aparelho compatível.
 
 
-### Linguagens, dependencias e libs utilizadas📚:
+### Linguagens, dependencias e libs utilizadas📚(linguagens-dependencias-libs):
 - Android Studio;
 - Java.
 
-### Desenvolvedores/Contribuintes:
-- Alan Brandi.
+### Desenvolvedores/Contribuintes(desenvolvedores):
+@AlanBrandi
 
 ### Licença
 The MIT License (MIT)
