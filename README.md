@@ -4,43 +4,41 @@ Status do Projeto: ✔️ Concluído
 
 ### Tópicos:
 
-🔹 [Descrição do projeto] (#descricao-projeto)
+🔹 Descrição do projeto
 
-🔹 [Funcionalidades] (#funcionalidades)
+🔹 Funcionalidades
 
-🔹 [Distribuição] (#destribuição)
+🔹 Distribuição
 
-🔹 [Pré-requisitos] (#pré-requisitos)
+🔹 Pré-requisitos
 
-🔹 [Linguagens, dependências e libs utilizadas] (#linguagens-dependencias-libs)
+🔹 Linguagens, dependências e libs utilizadas
 
-🔹 [Desenvolvedores/Contribuintes] (#desenvolvedores
+🔹 Desenvolvedores/Contribuintes
 
-...
-
-### Descrição do projeto (descricao-projeto):
+### Descrição do projeto:
 Aplicativo para tirar foto e pegar sua localização atual utilizando o GPS.
 
-### Funcionalidades(funcionalidades): ⚙️
+### Funcionalidades: ⚙️
 ✔️ Tirar fotos.
 
 ✔️ Localização atual (longitude e latitude).
 
-### Distribuição(destribuição):
+### Distribuição:
 https://github.com/AlanBrandi/CameraAndGeoLocation
 
-### Pré-requisitos(pré-requisitos)⚠️:
+### Pré-requisitos⚠️:
 Versão do Android; SDK; Aparelho utilizado para testes.
 
 -Android 7.0;
 -Emulador ou aparelho compatível.
 
 
-### Linguagens, dependencias e libs utilizadas📚(linguagens-dependencias-libs):
+### Linguagens, dependencias e libs utilizadas📚:
 - Android Studio;
 - Java.
 
-### Desenvolvedores/Contribuintes(desenvolvedores):
+### Desenvolvedores/Contribuintes):
 @AlanBrandi
 
 ### Licença
