@@ -30,7 +30,7 @@ https://github.com/AlanBrandi/CameraAndGeoLocation
 ### Pré-requisitos⚠️:
 Versão do Android; SDK; Aparelho utilizado para testes.
 
--Android 7.0;
+-Android 7.0.            
 -Emulador ou aparelho compatível.
 
 
